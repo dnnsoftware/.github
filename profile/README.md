@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+[Get started with DNN](https://docs.dnncommunity.org/content/getting-started/)
 <!--
 
 **Here are some ideas to get you started:**
