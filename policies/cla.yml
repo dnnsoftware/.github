@@ -104,4 +104,5 @@ configuration:
          - OhMyGuus-Bot
          - podman-desktop-bot
          - liurunliang-bot
+         - dnn-platform-ci-bot[bot]
       autoSignMsftEmployee: true
